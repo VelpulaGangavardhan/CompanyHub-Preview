@@ -16,7 +16,7 @@ The **actual source code (frontend + backend)** is private for security reasons.
 ## 📸 Project Preview
 
 ### Dashboard  
-*(screenshots/DashboardPage1.png)*
+*![Dashboard](screenshots/DashboardPage1.png)*
 
 ### Login Page  
 *(Add screenshot here)*
