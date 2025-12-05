@@ -15,14 +15,31 @@ The **actual source code (frontend + backend)** is private for security reasons.
 
 ## 📸 Project Preview
 
-### Dashboard  
-*!(screenshots/DashboardPage1.png)*
+### 🖥️ Dashboard
+![Dashboard](screenshots/DashboardPage1.png)
+![Dashboard](screenshots/DashboardPage2.png)
 
-### Login Page  
-*(Add screenshot here)*
+### 🔑 Login Page
+![Login Page](screenshots/LoginPage.png)
 
-### Team Management  
-*(Add screenshot here)*
+### 🏠 Home Page
+![Home Page](screenshots/HomePage.png)
+
+### 👥 Team Management
+![Team Management](screenshots/ManageTeamPage.png)
+
+### 📂 Document Management
+![Document Management](screenshots/ManageDocumentPage.png)
+
+### ⚙️ Settings Page
+![Settings](screenshots/SettingsPage.png)
+
+### 👤 Profile Page
+![Profile](screenshots/ProfilePage.png)
+
+### 📝 Registration Page
+![Register](screenshots/RegisterPage.png)
+
 
 ---
 
